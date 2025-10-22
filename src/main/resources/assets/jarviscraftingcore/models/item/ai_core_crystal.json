@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jarviscraftingcore:item/ai_core_crystal"
+  }
+}

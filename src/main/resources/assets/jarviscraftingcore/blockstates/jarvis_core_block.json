@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "jarviscraftingcore:block/jarvis_core_block"
+    }
+  }
+}
